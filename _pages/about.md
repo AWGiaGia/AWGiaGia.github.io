@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi there 😊😊 !
+Hello everyone 😊😊 !
 
 I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong University, where I will begin my doctoral studies this summer under the supervision of Dr. Yun Lin. My research interests focus on the application of AI to software engineering, particularly in the area of AI for code. I am currently completing my undergraduate studies at Wuhan University.
 
