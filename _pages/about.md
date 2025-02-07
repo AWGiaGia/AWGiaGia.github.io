@@ -23,9 +23,11 @@ Hi there 😊😊 !
 I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong University, where I will begin my doctoral studies this summer under the supervision of Dr. Yun Lin. My research interests focus on the application of AI to software engineering, particularly in the area of AI for code. I am currently completing my undergraduate studies at Wuhan University.
 
 
+
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 I'm honored to have joined the CoPhi research group, and I’d like to extend my sincere gratitude to Professor Lin for his recognition and encouragement.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications 
 
