@@ -27,7 +27,7 @@ I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I'm honored to have joined the [CoPhi](http://linyun.info/team.html) research group, and I’d like to extend my sincere gratitude to Professor Lin for his recognition and encouragement.
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
+- *2024.09*: &nbsp; One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications 
 
