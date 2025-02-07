@@ -33,7 +33,7 @@ I am Liu Jiawei（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong 
 
 Weifeng Liu†, Tianyi She†, **Jiawei Liu**, Run Wang, Dongyu Yao, Ziyou Liang
 
-
+*The 38th Conference on Neural Information Processing Systems (NeurIPS), 2024.*
 
 # 🎖 Honors and Awards
 
