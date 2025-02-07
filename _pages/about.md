@@ -20,7 +20,7 @@ redirect_from:
 
 Hello everyone 😊😊 !
 
-I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong University, where I will begin my doctoral studies this summer under the supervision of Dr. Yun Lin. My research interests focus on the application of AI to software engineering, particularly in the area of AI for code. I am currently completing my undergraduate studies at Wuhan University.
+I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong University, under the supervision of [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I will receive my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of Prof. [Run Wang](https://wangrun.github.io/). My research interests lie in the application of **artificial intelligence to software engineering**, with a particular focus on **AI for code**.
 
 
 
