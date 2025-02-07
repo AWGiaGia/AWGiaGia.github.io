@@ -29,7 +29,7 @@ I am Liu Jiawei（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong 
 
 # 📝 Publications 
 
-[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)
 
 Weifeng Liu†, Tianyi She†, **Jiawei Liu**, Run Wang, Dongyu Yao, Ziyou Liang
 
