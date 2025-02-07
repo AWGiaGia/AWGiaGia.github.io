@@ -44,4 +44,6 @@ I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong 
 - *2023.10* First Class Scholarship of WHU (Award Rate: 5% school-wide) Wuhan University
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, B.S. at School of Cyber Science and Engineering (SCSE), Wuhan University (WHU).
+
+- *2025.09 (admitted, pending enrollment)*, Ph.D. in Computer Science, Shanghai Jiao Tong University (SJTU).
+- *2021.09 - 2025.06 (present)*, B.S. at School of Cyber Science and Engineering (SCSE), Wuhan University (WHU).
