@@ -20,7 +20,7 @@ redirect_from:
 
 Hello everyone 😊😊 !
 
-I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong University, under the supervision of [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I will receive my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in the application of **artificial intelligence to software engineering**, with a particular focus on **AI for code**.
+I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong University, under the supervision of [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I received my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in the application of **artificial intelligence to software engineering**, with a particular focus on **AI for code**.
 
 
 
@@ -45,5 +45,5 @@ I am Jiawei Liu（刘嘉伟）, an incoming PhD candidate at Shanghai Jiao Tong 
 
 # 📖 Educations
 
-- *2025.09 (admitted, pending enrollment)*, Ph.D. in Computer Science, Shanghai Jiao Tong University (SJTU).
-- *2021.09 - 2025.06 (present)*, B.S. at School of Cyber Science and Engineering (SCSE), Wuhan University (WHU).
+- *2025.09 - current*, Ph.D. in Computer Science, Shanghai Jiao Tong University (SJTU).
+- *2021.09 - 2025.06*, B.S. in Cyber Science and Engineering, School of Cyber Science and Engineering (SCSE), Wuhan University (WHU).
