@@ -32,7 +32,7 @@ I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong U
   **ISSTA 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
 - **[Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](https://icml.cc/virtual/2026/poster/60674)**<br>
-  Tianyi She†, **Jiawei Liu**, Weifeng Liu, Hanqing Zhao, Weiming Zhang, Kejiang Chen<br>
+  Tianyi She†, **Jiawei Liu**†, Weifeng Liu, Hanqing Zhao, Weiming Zhang, Kejiang Chen<br>
   **ICML 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
 - **[EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows](https://dl.acm.org/doi/abs/10.1145/3798249)**<br>
