@@ -35,6 +35,10 @@ I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong U
   Tianyi She†, **Jiawei Liu**, Weifeng Liu, Hanqing Zhao, Weiming Zhang, Kejiang Chen<br>
   **ICML 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
+- **[EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows](https://dl.acm.org/doi/abs/10.1145/3798249)**<br>
+  Chenyan Liu, Yun Lin, Jiaxin Chang, **Jiawei Liu**, Binhang Qi, Bo Jiang, Zhiyong Huang, Jinsong Dong<br>
+  **OOPSLA 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>  
+
 - **[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)**<br>
   Weifeng Liu†, Tianyi She†, **Jiawei Liu**, Run Wang, Dongyu Yao, Ziyou Liang<br>
   **NeurIPS 2024** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
