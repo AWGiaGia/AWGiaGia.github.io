@@ -24,18 +24,20 @@ I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong U
 
 
 
-
-# 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I'm honored to have joined the [CoPhi](http://linyun.info/team.html) research group, and I’d like to extend my sincere gratitude to Professor Lin for his recognition and encouragement.
-- *2024.09*: &nbsp; One paper is accepted by NeurIPS 2024.
-
 # 📝 Publications 
 
-- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)
 
-    Weifeng Liu†, Tianyi She†, **Jiawei Liu**, Run Wang, Dongyu Yao, Ziyou Liang
+- **[IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues](https://doi.org/10.1145/3832290)**<br>
+  **Jiawei Liu**, Yun Lin, Chenyan Liu, Yu Qian, Yiming Liu, Jiaxin Chang, Weinan Zhang, Linpeng Huang<br>
+  **ISSTA 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
-    *The 38th Conference on Neural Information Processing Systems (NeurIPS), 2024.*
+- **[Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](https://icml.cc/virtual/2026/poster/60674)**<br>
+  Tianyi She†, **Jiawei Liu**, Weifeng Liu, Hanqing Zhao, Weiming Zhang, Kejiang Chen<br>
+  **ICML 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
+
+- **[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)**<br>
+  Weifeng Liu†, Tianyi She†, **Jiawei Liu**, Run Wang, Dongyu Yao, Ziyou Liang<br>
+  **NeurIPS 2024** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
 # 🎖 Honors and Awards
 
