@@ -27,7 +27,7 @@ I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong U
 # 📝 Publications 
 
 
-- **[IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues](https://doi.org/10.1145/3832290)**<br>
+- **[IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues](https://arxiv.org/pdf/2607.17286)**<br>
   **Jiawei Liu**, Yun Lin, Chenyan Liu, Yu Qian, Yiming Liu, Jiaxin Chang, Weinan Zhang, Linpeng Huang<br>
   **ISSTA 2026** <span class="ccf-badge" title="CCF Class A Conference">CCF-A</span>
 
