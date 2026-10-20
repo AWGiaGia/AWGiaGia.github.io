@@ -73,6 +73,7 @@
     display: block;
   }
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
@@ -250,6 +251,36 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+.author__email {
+  display: flex;
+  align-items: baseline;
+  gap: .35em;
+  margin-bottom: 5px;
+  padding: 2px 0;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  cursor: text;
+
+  i {
+    flex: 0 0 auto;
+  }
+
+  span {
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}
+
+.author__email-mobile {
+  flex-basis: 100%;
+  margin-top: .75em;
+
+  @include breakpoint($large) {
+    display: none;
   }
 }
 
