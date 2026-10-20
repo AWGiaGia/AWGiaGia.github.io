@@ -20,7 +20,7 @@ redirect_from:
 
 Hello everyone 😊😊 !
 
-I am Jiawei Liu（刘嘉伟）, a second-year PhD student at Shanghai Jiao Tong University, under the supervision of [Prof. Muning Wen](https://morning9393.github.io/), [Prof. Ying Wen](https://yingwen.io/en/), and [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I received my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in **AI4Code** and **post-training**.
+I am Jiawei Liu（刘嘉伟）, a second-year PhD student at Shanghai Jiao Tong University, under the supervision of [Prof. Muning Wen](https://morning9393.github.io/), [Prof. Ying Wen](https://yingwen.io/en/), and [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I received my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in **AI4Code** and **post-training of large language models**.
 
 
 
