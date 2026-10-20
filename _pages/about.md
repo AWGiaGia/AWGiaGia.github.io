@@ -27,7 +27,7 @@ I am Jiawei Liu（刘嘉伟）, a second-year PhD student at Shanghai Jiao Tong 
 # 📝 Publications 
 
 
-- **[MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825)**<br>
+- **[MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/pdf/2610.26825)**<br>
   **Jiawei Liu** (MemTensor Team), **Technical Report 2026** <span class="ccf-badge contributor-badge" title="Jiawei Liu is a core contributor">core contributor</span>
 
 - **[IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues](https://arxiv.org/pdf/2607.17286)**<br>
