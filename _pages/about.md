@@ -20,12 +20,16 @@ redirect_from:
 
 Hello everyone 😊😊 !
 
-I am Jiawei Liu（刘嘉伟）, a first-year PhD student at Shanghai Jiao Tong University, under the supervision of [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I received my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in the application of **artificial intelligence to software engineering**, with a particular focus on **AI for code**.
+I am Jiawei Liu（刘嘉伟）, a second-year PhD student at Shanghai Jiao Tong University, under the supervision of [Muning Wen](https://morning9393.github.io/), [Ying Wen](https://yingwen.io/en/), and [Prof. Yun Lin](http://linyun.info/index.html). Prior to this, I received my B.E. from the School of Cyber Science and Engineering (SCSE) at Wuhan University (WHU), China, under the guidance of [Prof. Run Wang](https://wangrun.github.io/). My research interests lie in the application of **artificial intelligence to software engineering**, with a particular focus on **AI for code** and **post-training**.
 
 
 
 # 📝 Publications 
 
+
+- **[MemT-1.0: Towards Memory-Native Evolution](https://github.com/MemTensor/MemT-1.0/blob/main/tech_report.pdf)**<br>
+  **Jiawei Liu**, <span class="publication-company"><img class="publication-logo" src="/images/memtensor-icon.jpg" alt="" width="20" height="20">MemTensor</span><br>
+  **Technical Report 2026** <span class="contributor-badge" title="Jiawei Liu is a core contributor">Core contributor</span>
 
 - **[IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues](https://arxiv.org/pdf/2607.17286)**<br>
   **Jiawei Liu**, Yun Lin, Chenyan Liu, Yu Qian, Yiming Liu, Jiaxin Chang, Weinan Zhang, Linpeng Huang<br>
