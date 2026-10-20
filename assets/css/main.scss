@@ -108,8 +108,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.ccf-badge,
-.contributor-badge {
+.ccf-badge {
     display: inline-block;
     margin-left: .35em;
     padding: .08em .45em;
@@ -123,14 +122,9 @@ h1:before, .anchor:before {
     vertical-align: .08em;
 }
 
-.contributor-badge,
-.publication-company {
+.contributor-badge {
+    border: 1px solid #b42318;
+    color: #b42318;
+    background-color: transparent;
     white-space: nowrap;
-}
-
-.publication-logo {
-    width: 1em;
-    height: 1em;
-    margin-right: .25em;
-    vertical-align: -.15em;
 }
