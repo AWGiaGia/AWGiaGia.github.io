@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "hi"
-excerpt: "hi"
+title: "Jiawei Liu（刘嘉伟） | SJTU | AI4Code & LLM Post-training"
+excerpt: "Jiawei Liu（刘嘉伟） is a PhD student at Shanghai Jiao Tong University (SJTU), researching AI4Code and post-training of LLMs. Academic homepage with publications and contact information."
 author_profile: true
 redirect_from: 
   - /about/

@@ -7,6 +7,8 @@
 
 # Site Settings
 title                    : "Jiawei Liu（刘嘉伟）"
+url                      : "https://awgiagia.github.io"
+baseurl                  : ""
 description              : "Ph.D. Student at Shanghai Jiao Tong University"
 repository               : "AWGiaGia/AWGiaGia.github.io"
 google_scholar_stats_use_cdn : true

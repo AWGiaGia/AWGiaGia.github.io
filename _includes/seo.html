@@ -8,11 +8,13 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+{% assign seo_title = page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once %}
+<title>{{ seo_title }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
@@ -29,17 +31,46 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ seo_title }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": {{ site.url | append: "/" | jsonify }},
+  "name": {{ page.title | jsonify }},
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Jiawei Liu",
+    "alternateName": "刘嘉伟",
+    "url": {{ site.url | append: "/" | jsonify }},
+    "jobTitle": "PhD Student",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Shanghai Jiao Tong University",
+      "alternateName": "SJTU",
+      "url": "https://www.sjtu.edu.cn/"
+    },
+    "knowsAbout": ["AI4Code", "Post-training of LLMs"],
+    "sameAs": [
+      {{ site.author.googlescholar | jsonify }},
+      "https://github.com/AWGiaGia"
+    ]
+  }
+}
+</script>
 {% endif %}
 
 {% if site.twitter.username %}
